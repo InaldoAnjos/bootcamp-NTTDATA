@@ -9,3 +9,5 @@
 ## Links úteis
 
  - https://www.w3schools.com/tags/ref_html_browsersupport.asp
+ - https://redmonk.com/rstephens/2022/10/20/top20-jun2022/
+ - My favorite search engine is [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").
