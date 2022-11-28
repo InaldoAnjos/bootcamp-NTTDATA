@@ -8,7 +8,7 @@ const pessoa = {
     }
 };
 
-/*console.log(pessoa);
+console.log(pessoa);
 
 //Inserindo uma nova chave
 
@@ -18,11 +18,10 @@ console.log(pessoa);
 //Deletando uma chave
 
 delete pessoa.email;
-console.log(pessoa);*/
+console.log(pessoa);
 
 //Usando o this
-
-//pessoa.descrever();
+pessoa.descrever();
 
 //Usando o this de outra maneira
 
